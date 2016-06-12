@@ -1,6 +1,6 @@
 {
   "name": "raven-blacklist",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Raven options to ignore common errors from 3rd party scripts / browser extensions",
   "main": "index.js",
   "scripts": {
