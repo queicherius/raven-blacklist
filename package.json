@@ -1,0 +1,19 @@
+{
+  "name": "raven-blacklist",
+  "version": "0.0.1",
+  "description": "Raven options to ignore common errors from 3rd party scripts / browser extensions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/queicherius/raven-blacklist.git"
+  },
+  "author": "queicherius@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/queicherius/raven-blacklist/issues"
+  },
+  "homepage": "https://github.com/queicherius/raven-blacklist#readme"
+}
