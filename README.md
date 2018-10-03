@@ -1,5 +1,7 @@
 # raven-blacklist
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/queicherius/raven-blacklist.svg)](https://greenkeeper.io/)
+
 > [Raven](https://github.com/getsentry/raven-js) options to ignore common errors from 3rd party scripts / browser extensions
 
 ## Install
